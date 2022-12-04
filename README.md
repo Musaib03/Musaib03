@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Musaib03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Musaib03/Musaib03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to t
+- JUST STARDUST
+- EXPLORING AND LEARNING 
+- CURRENTLY WORKING ON MY GOAL AND TYPING SYMBOLS, LETTERS AND NUMBERS ALL AT ONCE TO GET DESIRED OUTPUTS
+- TRYING TO EXCEL IN STRENGTHS AND OVERCOME THE WEAKNESSES
