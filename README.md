@@ -3,23 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaib03&label=Profile%20views&color=0e75b6&style=flat" alt="musaib03" /> </p>
 
-- 🔭 I’m currently working on **symbols, letters digits and fixing intends**
-
-- 🌱 I’m currently learning **Ruby On Rails**
-
-- 👯 I’m looking to collaborate on **creating a bug-free app (wishful thinking I know).**
-
-- 🤝 I’m looking for help with **finding that one missing semicolon**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Musaib03?tab=repositories](https://github.com/Musaib03?tab=repositories)
-
-- 📝 I regularly write articles on [turning random thoughts into content that sounds smart.](turning random thoughts into content that sounds smart.)
-
-- 💬 Ask me about **fixing bugs while creating new ones 🕵️‍♂️.**
-
-- 📫 How to reach me **wanimusaib520@gmail.com**
-
-- ⚡ Fun fact **My favorite programming language is Ctrl+C and Ctrl+V**
+🔭 Currently working on: Perfecting the art of balancing symbols, letters, digits, and fixing indents (one tab at a time).
+🌱 Currently learning: All things Ruby on Rails—embracing the challenge and loving the journey.
+👯 Open to collaboration on: Building a bug-free app (because dreaming big never hurt anyone).
+🤝 Looking for help with: Tracking down that one elusive missing semicolon (we’ve all been there).
+👨‍💻 Explore my projects: Check out my work here—feedback is always welcome!
+📝 Occasional writer: I turn random musings into content that occasionally sounds profound.
+💬 Ask me about: Debugging while accidentally introducing new bugs—it’s a skill, really. 🕵️‍♂️
+📫 Reach me at: wanimusaib520@gmail.com—I promise to reply faster than your build errors.
+⚡ Fun fact: My favorite programming language is "Ctrl+C & Ctrl+V" (but only when it’s bug-free, of course).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
