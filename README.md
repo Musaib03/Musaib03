@@ -27,5 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musaib03&show_icons=true&locale=en&layout=compact" alt="musaib03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musaib03&" alt="musaib03" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaib03" alt="GitHub Streak Stats for musaib03" />
+</p>
 
