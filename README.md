@@ -4,10 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaib03&label=Profile%20views&color=0e75b6&style=flat" alt="musaib03" /> </p>
 
 - 🔭 **Currently working on:** Perfecting the art of balancing symbols, letters, digits, and fixing indents (one tab at a time).  
-- 🌱 **Currently learning:** All things **Ruby on Rails**—embracing the challenge and loving the journey.  
 - 👯 **Open to collaboration on:** Building a bug-free app (because dreaming big never hurt anyone).  
 - 🤝 **Looking for help with:** Tracking down that one elusive missing semicolon (we’ve all been there).  
-- 👨‍💻 **Explore my projects:** Check out my work [here](https://github.com/Musaib03?tab=repositories)—feedback is always welcome!  
 - 📝 **Occasional writer:** I turn random musings into content that occasionally sounds profound.  
 - 💬 **Ask me about:** Debugging while accidentally introducing new bugs—it’s a skill, really. 🕵️‍♂️  
 - 📫 **Reach me at:** wanimusaib520@gmail.com—I promise to reply faster than your build errors.  
